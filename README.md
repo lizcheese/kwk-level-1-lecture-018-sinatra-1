@@ -121,10 +121,10 @@ end
 And if our Sinatra app _gets_ a request for any of these, it will match our
 instructions and return the correct text!
 
- [Hello World
+<!--  [Hello World
 Lab](https://github.com/learn-co-curriculum/kwk-l1-sinatra-hello-world-basics)
 (would love to this to mirror the structure from MVC in the starter as we'll
-never use app.rb in this course)
+never use app.rb in this course)  -->
 
 ## Dynamic Responses
 
@@ -273,4 +273,4 @@ Added to `index.html.erb`, the above line will print "I really love spicy tuna r
 Phew! That was a lot to process, but with a little practice, you can use what
 you're learning today to build _all kinds_ of dynamic web applications!
 
-https://github.com/learn-co-curriculum/kwk-l1-sinatra-organizer
+<!-- https://github.com/learn-co-curriculum/kwk-l1-sinatra-organizer -->
