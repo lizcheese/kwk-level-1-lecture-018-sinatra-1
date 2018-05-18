@@ -136,6 +136,11 @@ Lab](https://github.com/learn-co-curriculum/kwk-l1-sinatra-hello-world-basics)
 (would love to this to mirror the structure from MVC in the starter as we'll
 never use app.rb in this course)  -->
 
+## CFU
+
+Write your own set of recipe instructions. Instructor circulates to ensure
+student comprehension and one-on-one check-ins with scholars as necessary.
+
 ## Dynamic Responses
 
 Okay, going back to the new chef metaphor.. you're doing great, following the
@@ -172,6 +177,10 @@ get '/current_date' do
   Time.now().strftime("%c") # Gets the current time and date, converts it to string format
 end
 ```
+
+## CFU
+
+With a partner, write your own code for a dynamic response via Sinatra.
 
 ## Returning HTML
 
