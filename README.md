@@ -76,7 +76,7 @@ cook the meal, arrange the food and send the plate out.
 
 If I **get** `spaghetti`... find and follow the instructions for `spaghetti` and
 send out a plate when done.
-If I **get** `cheeseburger`... find and follow theinstructions for `cheeseburger`
+If I **get** `cheeseburger`... find and follow the instructions for `cheeseburger`
 and send out a plate when done.
 
 Sinatra routes work similarly... If Sinatra _gets_ a request for `something`, it
@@ -95,6 +95,10 @@ localhost:3000/sushi
 ```
 
 In this case, '/spaghetti', '/sushi', _and_ '/' are the specific paths within the site. If there isn't anything after the base URL, the path is equal to '/'.
+
+## CFU
+
+<insert CFU here (ideas: student turn & talk, create your own metaphor for Sinatra functionality, other?)>
 
 ## Writing the Recipe Instructions
 
