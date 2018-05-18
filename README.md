@@ -49,6 +49,11 @@ The ApplicationController is going to be what creates different "pages" for our
 application. On line 3 of `config.ru`, the word `run` on is Sinatra; it says,
 'hey, use this class as the object that has all the logic for our web
 application.' And with that... _our application starts._
+
+### CFU
+
+<insert CFU here: check student comprehension of the steps above + create flow chart / anchor chart>
+
 ### Building Routes to Content
 
 Again, Sinatra, in essence, is a Ruby app that, when started, will start
