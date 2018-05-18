@@ -141,7 +141,7 @@ says:
 mix random things together on a plate.
 ```
 
-...and so you do. One customer gets spaghetti car_banana_, another gets spicy
+...and so you do. One customer gets spaghetti car banana, another gets spicy
 peanut butter, and another gets ice cream filet of shoe sole.  This is a dynamic
 response.  You don't always get the same thing!
 
