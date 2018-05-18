@@ -70,8 +70,9 @@ the requested order, go and look in your book, find the matching instructions,
 cook the meal, arrange the food and send the plate out.
 
 If I **get** `spaghetti`... find and follow the instructions for `spaghetti` and
-send out a plate when done If I **get** `cheeseburger`... find and follow the
-instructions for `cheeseburger` and send out a plate when done
+send out a plate when done.
+If I **get** `cheeseburger`... find and follow theinstructions for `cheeseburger`
+and send out a plate when done.
 
 Sinatra routes work similarly... If Sinatra _gets_ a request for `something`, it
 looks for instructions for that `something`, and if found, follows them,
