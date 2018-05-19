@@ -180,7 +180,7 @@ end
 
 ## CFU
 
-With a partner, write your own code for a dynamic response via Sinatra.
+With a partner, figure out some commands that might be dynamic. Help students differentiate between dynamic v. static concepts.
 
 ## Returning HTML
 
